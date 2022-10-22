@@ -1,0 +1,130 @@
+{
+  "categories": [
+    {
+      "idCat": 0,
+      "name": "Tennis",
+      "image": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg",
+
+      "products": [
+        {
+          "idProd": 0,
+          "name": "Tennis Balls",
+          "description": "Description Tennis Balls",
+          "price": 1.0,
+          "image": "https://cdn.shopify.com/s/files/1/2006/8755/articles/unnamed_07beb919-3965-4407-9e81-1ad788eac4ca_360x.jpg",
+          "category": 1
+        },
+        {
+          "idProd": 1,
+          "name": "Tennis Racket",
+          "description": "Description Tennis Racket",
+          "price": 2.0,
+          "image": "https://contents.mediadecathlon.com/p2153758/k$8edc570a91fe2eb593ef60604871708b/sq/kids-tennis-racket-blade-v8-25-inches-greencopper.jpg",
+          "category": 1
+        },
+        {
+          "idProd": 2,
+          "name": "Socks",
+          "description": "Description Socks",
+          "price": 2.0,
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/xwldm2jnomnparuvomh7/everyday-lightweight-training-crew-socks-zGsXvr.png",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "idCat": 1,
+      "name": "Soccer",
+      "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg",
+
+      "products": [
+        {
+          "idProd": 0,
+          "name": "Soccer Ball",
+          "description": "Description soccer ball",
+          "price": 3.0,
+          "image": "https://images.dickssportinggoods.com/is/image/GolfGalaxy/19ADIARPRWHBLKCYNSCB_White_Black_Green_Cyan-1",
+          "category": 2
+        },
+        {
+          "idProd": 1,
+          "name": "Soccer Shoes",
+          "description": "Description soccer shoes",
+          "price": 4.0,
+          "image": "https://cdn.haitex.it/IT02227420607/editoriale/183_scarpe_da_calcio.jpg.webp",
+          "category": 2
+        }
+      ]
+    },
+    {
+      "idCat": 2,
+      "name": "Volley",
+      "image": "https://www.marchenotizie.it/wp-content/uploads/2021/02/Andata-dei-Quarti-mercoledi%CC%80-la-Lube-ospita-lo-Zaksa.png",
+      "products": [
+        {
+          "idProd": 0,
+          "name": "Volley Ball",
+          "description": "Description volley ball",
+          "price": 5.0,
+          "image": "https://4.imimg.com/data4/JV/TP/MY-2264923/volley-ball-1000x1000.jpg",
+          "category": 3
+        },
+        {
+          "idProd": 1,
+          "name": "Knee Pads",
+          "description": "Description knee pads",
+          "price": 6.0,
+          "image": "https://m.media-amazon.com/images/I/71PH2Xy7k4L._AC_SL1500_.jpg",
+          "category": 3
+        }
+      ]
+    },
+    {
+      "idCat": 3,
+      "name": "Cycling",
+      "image": "https://images.pexels.com/photos/38296/cycling-bicycle-riding-sport-38296.jpeg",
+
+      "products": [
+        {
+          "idProd": 0,
+          "name": "Bicycle",
+          "description": "Description bicycle",
+          "price": 7.0,
+          "image": "https://m.media-amazon.com/images/I/81wGn2TQJeL._SL1500_.jpg",
+          "category": 4
+        },
+        {
+          "idProd": 1,
+          "name": "Helmet",
+          "description": "Description helmet",
+          "price": 8.0,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bicycle_Helmet_0085.jpg/1920px-Bicycle_Helmet_0085.jpg",
+          "category": 4
+        }
+      ]
+    },
+    {
+      "idCat": 4,
+      "name": "Ski",
+      "image": "https://images.pexels.com/photos/10630116/pexels-photo-10630116.jpeg",
+      "products": [
+        {
+          "idProd": 0,
+          "name": "Ski",
+          "description": "Description ski",
+          "price": 9.0,
+          "image": "https://cdn.webshopapp.com/shops/212063/files/344760819/atomic-skis-punx-five-w-warden-11.jpg",
+          "category": 5
+        },
+        {
+          "idProd": 1,
+          "name": "Boots",
+          "description": "Description boots",
+          "price": 10.0,
+          "image": "https://contents.mediadecathlon.com/p2041196/k$11c504358cd5868704c4857e919ee380/sq/scarponi-sci-uomo-rossignol-alltrack-90-2022.jpg",
+          "category": 5
+        }
+      ]
+    }
+  ]
+}
