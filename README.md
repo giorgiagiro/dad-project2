@@ -2,7 +2,7 @@
 
 ## Deployment
 
-You can visit my app here [QuizTime](https://giorgiagiro.github.io/dad-project2/#/)
+You can visit my app here [Project DAD 2](https://giorgiagiro.github.io/dad-project2/#/)
 
 ## Features
 
